@@ -1,0 +1,16 @@
+{
+  "name": "kametee",
+  "displayName": "Kametee",
+  "expo": {
+    "name": "Kametee",
+    "slug": "kametee",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  },
+  "splash": {
+    "image": "./assets/logo.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
